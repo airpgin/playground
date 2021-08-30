@@ -1,0 +1,14 @@
+What do you do for a living?
+	I'm a teacher.
+Oh, really? What do you teach?
+	I'm a math teacher at Carson College.
+
+I'm an engineer.
+I'm an electrical engineer.
+I'm programmer.
+I'm web programmer.
+I'm Internet Programmer.
+
+What kind of an engineer?
+Waht kind of teacher?
+
